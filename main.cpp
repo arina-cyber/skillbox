@@ -1,4 +1,4 @@
-#include "default/start.h"
+#include "task1/start.h"
 
 int main() {
 	run();
