@@ -70,7 +70,6 @@ bool second_part_check(string email) {
     return result;
 }
 
-
 void task2() {
 	string email;
     string first_part;
